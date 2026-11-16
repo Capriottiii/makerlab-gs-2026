@@ -1,0 +1,17 @@
+MÉTRICAS DO CLASSIFICADOR (dados SINTÉTICOS — não medem desempenho em campo)
+Janela=10 leituras a cada 500 ms | treino=6750 | teste=2250 | nós=23
+
+              precision    recall  f1-score   support
+
+      NORMAL      0.960     0.999     0.979       750
+     ATENCAO      0.999     0.957     0.978       750
+      PERIGO      0.999     1.000     0.999       750
+
+    accuracy                          0.985      2250
+   macro avg      0.986     0.985     0.985      2250
+weighted avg      0.986     0.985     0.985      2250
+
+Matriz de confusão (linhas=real, colunas=previsto)
+[[749   1   0]
+ [ 31 718   1]
+ [  0   0 750]]
