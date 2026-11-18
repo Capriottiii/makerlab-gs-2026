@@ -18,7 +18,7 @@ Dispositivo embarcado (ESP32, simulado no Wokwi) que fica no topo de um bueiro o
 | Item | Link |
 |---|---|
 | Simulação no Wokwi | _colar o link do projeto no Wokwi_ |
-| Vídeo demonstrativo (até 6 min) | _colar o link do YouTube (não listado)_ |
+| Vídeo demonstrativo (até 6 min) |https://youtu.be/r_vE-ALpE9w |
 | Repositório do produto (MVP) | _colar o link do repositório principal_ |
 
 ---
